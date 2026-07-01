@@ -2,9 +2,12 @@
   <img src="./assets/logo.png" width="180" alt="Marius Lui logo" />
 </p>
 
+💫 About Me:
 
-# 💫 About Me:
-🔭 I’m currently working on My Project Foodystamp<br>🌱 I’m currently learning Rust, Dart<br>⚡ Fun fact i own Kmuc
+🔭 I’m currently working on My Project Foodystamp<br>
+🌱 I’m currently learning Rust, Dart<br>
+⚡ Fun fact i own [KMUC](https://kmuc.online)
+
 
 
 ## 🌐 Socials:
