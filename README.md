@@ -2,7 +2,6 @@
   <img src="./assets/logo.png" width="180" alt="Marius Lui logo" />
 </p>
 
-> Logo und Favicon basieren auf meinem Porträt.
 
 # 💫 About Me:
 🔭 I’m currently working on My Project Foodystamp<br>🌱 I’m currently learning Rust, Dart<br>⚡ Fun fact i own Kmuc
