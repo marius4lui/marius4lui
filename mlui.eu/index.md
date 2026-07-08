@@ -1,7 +1,7 @@
 # mlui.eu
 
 ## Hero
-name: Marius Lui
+name: arius Lui
 tagline: Developer, KMUC, marius4lui
 description: Apps, Microservices und Web-Produkte für KMUC. Clean gebaut, klar strukturiert, bereit für echte Nutzung.
 imageUrl: /profile.jpg
