@@ -7,7 +7,7 @@ description: Apps, Microservices und Web-Produkte für KMUC. Clean gebaut, klar 
 intro: Ich entwickle digitale Produkte und Services – von der Idee bis zum produktiven Einsatz.
 ctaLabel: Mail Me
 ctaHref: mailto:hello@mlui.eu
-imageUrl: /logo.png
+imageUrl: /logo.pn
 
 ## Stats
 Role | Developer
