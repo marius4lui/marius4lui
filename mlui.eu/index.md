@@ -4,6 +4,9 @@
 name: arius Lui
 tagline: Developer, KMUC, marius4lui
 description: Apps, Microservices und Web-Produkte für KMUC. Clean gebaut, klar strukturiert, bereit für echte Nutzung.
+intro: Ich entwickle digitale Produkte und Services – von der Idee bis zum produktiven Einsatz.
+ctaLabel: Mail Me
+ctaHref: mailto:hello@mlui.eu
 imageUrl: /profile.jpg
 
 ## Stats
