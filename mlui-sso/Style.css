@@ -1,0 +1,106 @@
+/* mlui.eu-style dark glass login */
+
+:root {
+  --pf-global--primary-color--100: #ffffff;
+  --pf-global--link--Color: #ffffff;
+  --pf-global--BorderRadius--sm: 18px;
+}
+
+.pf-c-background-image {
+  background: #050505 !important;
+}
+
+.pf-c-login {
+  background:
+    radial-gradient(circle at 20% 15%, rgba(255,255,255,.08), transparent 28%),
+    radial-gradient(circle at 80% 80%, rgba(255,255,255,.06), transparent 30%),
+    #050505 !important;
+}
+
+.pf-c-login__container {
+  min-height: 100vh;
+}
+
+.pf-c-login__main {
+  background: rgba(10, 10, 10, 0.72) !important;
+  backdrop-filter: blur(22px) saturate(140%);
+  -webkit-backdrop-filter: blur(22px) saturate(140%);
+  border: 1px solid rgba(255,255,255,.10) !important;
+  border-radius: 28px !important;
+  box-shadow: 0 24px 80px rgba(0,0,0,.55) !important;
+  overflow: hidden;
+}
+
+.pf-c-login__main-header,
+.pf-c-login__main-body,
+.pf-c-login__main-footer {
+  background: transparent !important;
+}
+
+.pf-c-title,
+.pf-c-login__main h1,
+.pf-c-login__main h2,
+.pf-c-login__main label,
+.pf-c-login__main p,
+.pf-c-login__main span {
+  color: #f5f5f5 !important;
+}
+
+.pf-c-form-control,
+input {
+  background: rgba(255,255,255,.055) !important;
+  border: 1px solid rgba(255,255,255,.12) !important;
+  color: #fff !important;
+  border-radius: 16px !important;
+  min-height: 48px;
+}
+
+.pf-c-form-control:focus,
+input:focus {
+  border-color: rgba(255,255,255,.55) !important;
+  box-shadow: 0 0 0 3px rgba(255,255,255,.12) !important;
+}
+
+.pf-c-button.pf-m-primary {
+  background: #ffffff !important;
+  color: #050505 !important;
+  border: 1px solid #ffffff !important;
+  border-radius: 18px !important;
+  font-weight: 700 !important;
+  padding: 12px 22px !important;
+}
+
+.pf-c-button.pf-m-primary:hover {
+  background: #dcdcdc !important;
+  border-color: #dcdcdc !important;
+}
+
+.pf-c-button.pf-m-secondary,
+.pf-c-button.pf-m-control {
+  background: rgba(255,255,255,.06) !important;
+  color: #ffffff !important;
+  border: 1px solid rgba(255,255,255,.12) !important;
+  border-radius: 18px !important;
+}
+
+.pf-c-button.pf-m-secondary:hover,
+.pf-c-button.pf-m-control:hover {
+  background: rgba(255,255,255,.12) !important;
+}
+
+.pf-c-login__footer,
+.pf-c-login__footer * {
+  display: none !important;
+}
+
+a {
+  color: #ffffff !important;
+  text-decoration-color: rgba(255,255,255,.35) !important;
+}
+
+.pf-c-alert {
+  background: rgba(255,255,255,.06) !important;
+  border: 1px solid rgba(255,255,255,.12) !important;
+  border-radius: 18px !important;
+  color: #ffffff !important;
+}
