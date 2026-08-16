@@ -15,7 +15,7 @@
 
 - 🔭 Aktuelles Projekt: **[Habiter](https://habiter.dev)**
 - 🌱 Aktuell am Lernen: **Rust & Dart**
-- ⚡ Side Fact: Betreiber von [kmuc.online](https://kmuc.online)
+- ⚡ Side Fact: Betreiber von [KMUC](https://kmuc.online)
 
 ---
 
