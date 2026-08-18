@@ -6,7 +6,7 @@
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/sebimlui)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-lui-463390384)
-  [![Website](https://img.shields.io/badge/Website-KMUC.online-00bcd4?style=flat-square&logo=google-chrome&logoColor=white)](https://kmuc.online)
+  [![Website](https://img.shields.io/badge/Website-mlui.eu-00bcd4?style=flat-square&logo=google-chrome&logoColor=white)](https://mlui.eu)
 </div>
 
 ---
